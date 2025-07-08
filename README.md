@@ -1,6 +1,6 @@
-# 💻 Aplikasi Kasir Java Swing
+# 💻 Aplikasi Kasir Java Dekstop
 
-Aplikasi Kasir Sederhana berbasis Java Swing dengan database SQLite. Aplikasi ini dirancang untuk membantu pengguna dalam mengelola data barang dan transaksi secara offline secara efisien dan praktis.
+Aplikasi Kasir Sederhana berbasis Java Dekstop dengan database SQLite. Aplikasi ini dirancang untuk membantu pengguna dalam mengelola data barang dan transaksi secara offline secara efisien dan praktis.
 
 ## 🚀 Fitur Utama
 
