@@ -148,7 +148,15 @@ public class Transaksi extends javax.swing.JFrame {
             new String [] {
                 "No", "Barang", "Stok", "Harga", "Total"
             }
-        ));
+        ) {
+            boolean[] canEdit = new boolean [] {
+                false, false, false, false, false
+            };
+
+            public boolean isCellEditable(int rowIndex, int columnIndex) {
+                return canEdit [columnIndex];
+            }
+        });
         jScrollPane1.setViewportView(tableTransaksi);
 
         jLabel4.setBackground(new java.awt.Color(0, 0, 0));
