@@ -30,7 +30,7 @@ Gunakan akun berikut untuk masuk ke aplikasi:
 ## ⚙️ Petunjuk Penggunaan
 
 1. Buka proyek di NetBeans.
-2. Tambahkan library JDBC untuk SQLite jika belum ada.
+2. Tambahkan library JDBC untuk SQLite jika belum ada. "https://drive.google.com/file/d/1xEfUdMI4q_H8LnDunEXS_R3dHmj7YDO8/view?usp=sharing"
 3. Jalankan file `Main.java` untuk memulai aplikasi.
 4. Login menggunakan akun di atas, lalu mulai tambah barang dan lakukan transaksi.
 
