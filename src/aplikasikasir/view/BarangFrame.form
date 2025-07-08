@@ -128,7 +128,7 @@
                           </Group>
                       </Group>
                   </Group>
-                  <EmptySpace pref="20" max="32767" attributes="0"/>
+                  <EmptySpace pref="14" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -415,7 +415,7 @@
                 <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
-                <Property name="text" type="java.lang.String" value="Klik 2x dibagian stok untuk edit/hapus"/>
+                <Property name="text" type="java.lang.String" value="Klik 2x dibagian kode untuk edit/hapus"/>
               </Properties>
             </Component>
           </SubComponents>
@@ -441,8 +441,8 @@
                   <Table columnCount="5" rowCount="4">
                     <Column editable="true" title="Nama Barang" type="java.lang.Object"/>
                     <Column editable="true" title="Deskripsi" type="java.lang.Object"/>
-                    <Column editable="false" title="Stok" type="java.lang.Object"/>
-                    <Column editable="true" title="kode" type="java.lang.Object"/>
+                    <Column editable="true" title="Stok" type="java.lang.Object"/>
+                    <Column editable="false" title="kode" type="java.lang.Object"/>
                     <Column editable="true" title="Harga" type="java.lang.Object"/>
                   </Table>
                 </Property>

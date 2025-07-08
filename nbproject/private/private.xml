@@ -3,15 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/Main.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/config/Database.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/view/Dashboard.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/model/Transaksi.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/dao/BarangDAO.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/view/Login.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/model/Barang.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/view/Transaksi.java</file>
-            <file>file:/D:/data/aplikasikasir/src/aplikasikasir/view/BarangFrame.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/model/Barang.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/dao/UserDAO.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/view/BarangFrame.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/view/Transaksi.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/view/Dashboard.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/Main.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/dao/BarangDAO.java</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/image/databarang.png</file>
+            <file>file:/C:/Users/LEGION/Documents/GitHub/casir_aplication_desktop/src/aplikasikasir/config/Database.java</file>
         </group>
     </open-files>
 </project-private>
